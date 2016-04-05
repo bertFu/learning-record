@@ -1,0 +1,45 @@
+#### 任务制定
+
+- 1.掌握 `$scope` 用法及生命周期，了解 `$scope` 与 `$rootScope` 之间的关系。
+- 2.掌握$http用法（angular中的Ajax）。
+- 3.掌握 `$emit`、 `$broadcase` 、`$on` 之间的时间传播机制。
+- 4.掌握service的用法，了解angular服务机制 `factory` 、 `service` 、 `provider` 之间的关系。
+- 5.熟悉过滤器 `filter` 用法，熟悉常用过滤器。
+- 6.熟悉 `ng-app` 、 `ng-model` 、 `ng-controller` 、 `ng-click` 等常用指令。
+- 7.熟悉 `$watch` 的使用。
+- 8.熟悉 `Bower`。
+- 9.熟悉 `angular.module` 创建模块与模块之间的依赖关系。
+- 10.熟悉 `.run` 的使用。
+- 11.熟悉 `.config` 的使用。
+- 12.熟悉控制器之间的关系，控制器嵌套（作用域与包含作用域）。
+- 13.了解 `ui-bootstrop`。
+- 14.了解promise，后期开发会需要逐步采用promise机制。
+- 15.了解 `Angular-ui-router` 的用法（了解为什么要使用 `Angular-ui-router` 而不使用原生的 `ng-router`）。
+
+#### Angular-UI-Router：
+- Angular-UI-Router 学习笔记：http://www.tuicool.com/articles/zeiy6ff
+- 学习angular ui-router - 管理状态（推荐，将的很全面）：http://blog.csdn.net/yy374864125/article/details/43702153
+
+- angular-ui-router 的GitHub：https://github.com/angular-ui/ui-router/wiki
+
+#### 学习资源
+- AngularJs资源集合（包含较全面的学习知识）：http://www.iteye.com/news/28651-AngularJS-Google-resource
+- AngularJs学习笔记--Guide教程系列文章索引：http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html
+- angularJs中文社区：http://www.angularjs.cn/
+- angular中文API文档：http://docs.ngnice.com/guide
+
+#### AngularUI
+- AngularUI（包含该一些ui组件，有兴趣的可以查看）：https://github.com/angular-ui
+
+#### login-登录安全
+- AngularJS 应用身份认证的技巧（需要了解登录权限的时候查看）：https://blog.coding.net/blog/techniques-for-authentication-in-angular-js-applications?type=hot
+
+#### Promise
+- AngularJS 中的 Promise 和 设计模式（使用到promise时查看）：http://my.oschina.net/ilivebox/blog/293771?fromerr=hrrFEzLK
+
+#### Directive
+- AngularJS常用插件与指令收集（扩展了解）：http://chensd.com/2015-06/AngularJS-popular-Plugins-and-Directive.html
+- angularJS之使用指令封装DOM操作（使用到自定义指定时查看）：http://www.w2bc.com/Article/28945
+
+#### Scope
+- Scoop的用法：http://www.html-js.com/article/1863
