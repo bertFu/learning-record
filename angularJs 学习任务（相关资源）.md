@@ -19,7 +19,6 @@
 #### Angular-UI-Router：
 - Angular-UI-Router 学习笔记：http://www.tuicool.com/articles/zeiy6ff
 - 学习angular ui-router - 管理状态（推荐，将的很全面）：http://blog.csdn.net/yy374864125/article/details/43702153
-
 - angular-ui-router 的GitHub：https://github.com/angular-ui/ui-router/wiki
 
 #### 学习资源
