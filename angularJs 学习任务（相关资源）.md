@@ -26,6 +26,15 @@
 - AngularJs学习笔记--Guide教程系列文章索引：http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html
 - angularJs中文社区：http://www.angularjs.cn/
 - angular中文API文档：http://docs.ngnice.com/guide
+- angular最佳实践：http://www.lovelucy.info/angularjs-best-practices.html
+
+#### 性能有货
+- 为什么我们的angular应用总是很慢：http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/
+- angular性能优化心得: https://github.com/dolymood/AngularLearning
+
+#### 集锦
+2013年AngularJS学习资源精选：http://www.iteye.com/news/28651-AngularJS-Google-resource
+Angular.js 的一些学习资源：https://github.com/dolymood/AngularLearning
 
 #### AngularUI
 - AngularUI（包含该一些ui组件，有兴趣的可以查看）：https://github.com/angular-ui

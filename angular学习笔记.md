@@ -1,4 +1,6 @@
-### angular学习笔记
+## angular学习笔记
+
+#### angular-ui-router
 
 1. 初次使用 `angular-ui-router` 据说是可以多层嵌套路由。
 
@@ -75,3 +77,7 @@ var template = '<link ng-repeat="stylesheet in stylesheets track by $index | ord
 更重要的一点是，GitHub真是一个好东西阿。
 
 碎觉碎觉，本以为今晚会是一个不眠之夜，幸灾，幸灾。
+
+#### Scope
+
+最开始学习angular的时候，觉得 `Scope` 就是控制器暴露出属性和方法，供视图使用。
