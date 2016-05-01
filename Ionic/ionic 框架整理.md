@@ -1,5 +1,5 @@
 ### 目录结构
-
+```
 > css               // 存放css文件  
 > images            // 存放图片文件  
 > js                // 存放js文件  
@@ -12,7 +12,7 @@
 > bower.json        // Js管理  
 > index.html        // html入口  
 > router.js         // 记录路由相关文件  
-
+```
 
 css：
 ionic提供了一套友好的APP UI库，用于快速搭建H5页面。    
