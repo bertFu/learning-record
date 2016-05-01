@@ -1,23 +1,23 @@
 ### 目录结构
 
-> css               // 存放css文件＜/br＞
-> images            // 存放图片文件＜/br＞
-> js                // 存放js文件＜/br＞
->> controllers      // 存放控制器文件＜/br＞
->> directivers      // 存放指令文件＜/br＞
->> lib              // 存放外部包：ionic、require等＜/br＞
->> services         // 存放服务文件＜/br＞
-> pages             // 存放页面文件＜/br＞
-> app.js            // angularJs启动文件＜/br＞
-> bower.json        // Js管理＜/br＞
-> index.html        // html入口＜/br＞
-> router.js         // 记录路由相关文件＜/br＞
+> css               // 存放css文件  
+> images            // 存放图片文件  
+> js                // 存放js文件  
+>> controllers      // 存放控制器文件  
+>> directivers      // 存放指令文件  
+>> lib              // 存放外部包：ionic、require等  
+>> services         // 存放服务文件  
+> pages             // 存放页面文件  
+> app.js            // angularJs启动文件  
+> bower.json        // Js管理  
+> index.html        // html入口  
+> router.js         // 记录路由相关文件  
 
 
 css：
-ionic提供了一套友好的APP UI库，用于快速搭建H5页面。＜/br＞
-ionic是一套开源的框架，考虑的情况过多，熟悉框架后，可以基于该框架搭建一套自己的angular指令库。＜/br＞
-ionic中文网：[http://www.ionic.wang/css_doc-index.html#header](http://www.ionic.wang/css_doc-index.html#header)＜/br＞
+ionic提供了一套友好的APP UI库，用于快速搭建H5页面。    
+ionic是一套开源的框架，考虑的情况过多，熟悉框架后，可以基于该框架搭建一套自己的angular指令库。  
+ionic中文网：[http://www.ionic.wang/css_doc-index.html#header](http://www.ionic.wang/css_doc-index.html#header)  
 
 ### 导航栏/Heather <ion-header-bar>
 ```
