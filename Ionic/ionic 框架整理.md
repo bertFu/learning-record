@@ -1,23 +1,23 @@
 ### 目录结构
 
-> css               // 存放css文件
-> images            // 存放图片文件
-> js                // 存放js文件
->> controllers      // 存放控制器文件
->> directivers      // 存放指令文件
->> lib              // 存放外部包：ionic、require等
->> services         // 存放服务文件
-> pages             // 存放页面文件
-> app.js            // angularJs启动文件
-> bower.json        // Js管理
-> index.html        // html入口
-> router.js         // 记录路由相关文件
+> css               // 存放css文件＜/br＞
+> images            // 存放图片文件＜/br＞
+> js                // 存放js文件＜/br＞
+>> controllers      // 存放控制器文件＜/br＞
+>> directivers      // 存放指令文件＜/br＞
+>> lib              // 存放外部包：ionic、require等＜/br＞
+>> services         // 存放服务文件＜/br＞
+> pages             // 存放页面文件＜/br＞
+> app.js            // angularJs启动文件＜/br＞
+> bower.json        // Js管理＜/br＞
+> index.html        // html入口＜/br＞
+> router.js         // 记录路由相关文件＜/br＞
 
 
 css：
-ionic提供了一套友好的APP UI库，用于快速搭建H5页面。
-ionic是一套开源的框架，考虑的情况过多，熟悉框架后，可以基于该框架搭建一套自己的angular指令库。
-ionic中文网：[http://www.ionic.wang/css_doc-index.html#header](http://www.ionic.wang/css_doc-index.html#header)
+ionic提供了一套友好的APP UI库，用于快速搭建H5页面。＜/br＞
+ionic是一套开源的框架，考虑的情况过多，熟悉框架后，可以基于该框架搭建一套自己的angular指令库。＜/br＞
+ionic中文网：[http://www.ionic.wang/css_doc-index.html#header](http://www.ionic.wang/css_doc-index.html#header)＜/br＞
 
 ### 导航栏/Heather <ion-header-bar>
 ```
@@ -241,5 +241,24 @@ function MainCtrl($scope, $ionicScrollDelegate) {
 但是滚动服务还提供的其他很多方法，如获取 `对象` 滚动到该视图的位置，获取到了要滚到他的位置还不容易吗？
 还没有尝试过，其他的方法在后续使用过后加入到文档中。
 
- 
+### 选项卡/Tabs <ion-tabs>
+```
+<ion-tabs class="tabs-positive tabs-icon-only">
+
+    <ion-tab title="首页" icon-on="ion-ios7-filing" icon-off="ion-ios7-filing-outline">
+        <!-- 标签 1 内容 -->
+    </ion-tab>
+
+    <ion-tab title="关于" icon-on="ion-ios7-clock" icon-off="ion-ios7-clock-outline">
+        <!-- 标签 2 内容 -->
+    </ion-tab>
+
+    <ion-tab title="设置" icon-on="ion-ios7-gear" icon-off="ion-ios7-gear-outline">
+        <!-- 标签 3 内容 -->
+    </ion-tab>
+
+</ion-tabs>
+``` 
+
+
 更新日期：2016-04-30
