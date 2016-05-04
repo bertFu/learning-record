@@ -27,6 +27,8 @@
 - angularJs中文社区：http://www.angularjs.cn/
 - angular中文API文档：http://docs.ngnice.com/guide
 - angular最佳实践：http://www.lovelucy.info/angularjs-best-practices.html
+- AngularJS资源合集：http://www.iteye.com/news/28651-AngularJS-Google-resource
+- AngularJS1、AngularJS2代码编写规范：https://github.com/johnpapa/angular-styleguide
 
 #### 性能有货
 - 为什么我们的angular应用总是很慢：http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/
@@ -38,6 +40,9 @@ Angular.js 的一些学习资源：https://github.com/dolymood/AngularLearning
 
 #### AngularUI
 - AngularUI（包含该一些ui组件，有兴趣的可以查看）：https://github.com/angular-ui
+- AngularUI：http://angular-ui.github.io/
+- 基于bootstrap的指令库：https://angular-ui.github.io/bootstrap/
+- kendoUI：https://github.com/telerik/kendo-ui-core
 
 #### login-登录安全
 - AngularJS 应用身份认证的技巧（需要了解登录权限的时候查看）：https://blog.coding.net/blog/techniques-for-authentication-in-angular-js-applications?type=hot
@@ -48,6 +53,12 @@ Angular.js 的一些学习资源：https://github.com/dolymood/AngularLearning
 #### Directive
 - AngularJS常用插件与指令收集（扩展了解）：http://chensd.com/2015-06/AngularJS-popular-Plugins-and-Directive.html
 - angularJS之使用指令封装DOM操作（使用到自定义指定时查看）：http://www.w2bc.com/Article/28945
+- 进度条：https://htmlpreview.github.io/?https://github.com/angular-ui/ui-slider/master/demo/index.html
 
 #### Scope
 - Scoop的用法：http://www.html-js.com/article/1863
+ 
+#### 后台管理
+- 基于angularJs的后台管理：https://github.com/beeman/loopback-angular-admin
+- 基于angularJs开发的后台管理框架平台：http://startangular.com/
+
