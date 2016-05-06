@@ -31,7 +31,7 @@
 - AngularJS1、AngularJS2代码编写规范：https://github.com/johnpapa/angular-styleguide
 
 #### 性能有货
-- 为什么我们的angular应用总是很慢：http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/
+- [为什么我们的angular应用总是很慢](http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/)
 - angular性能优化心得: https://github.com/dolymood/AngularLearning
 
 #### 集锦
