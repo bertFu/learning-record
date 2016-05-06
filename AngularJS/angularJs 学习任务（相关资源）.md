@@ -54,6 +54,7 @@ Angular.js 的一些学习资源：https://github.com/dolymood/AngularLearning
 - AngularJS常用插件与指令收集（扩展了解）：http://chensd.com/2015-06/AngularJS-popular-Plugins-and-Directive.html
 - angularJS之使用指令封装DOM操作（使用到自定义指定时查看）：http://www.w2bc.com/Article/28945
 - 进度条：https://htmlpreview.github.io/?https://github.com/angular-ui/ui-slider/master/demo/index.html
+- AngularJS内置指令：http://www.jb51.net/article/60733.htm
 
 #### Scope
 - Scoop的用法：http://www.html-js.com/article/1863
