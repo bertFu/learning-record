@@ -31,7 +31,7 @@
 - [AngularJS1、AngularJS2代码编写规范](https://github.com/johnpapa/angular-styleguide)
 
 #### 性能优化
-- [为什么我们的angular应用总是很慢]((http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/)
+- [为什么我们的angular应用总是很慢](http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/)
 - [angular性能优化心得]( https://github.com/dolymood/AngularLearning)
 
 #### 集锦
@@ -57,7 +57,7 @@
 - [AngularJS内置指令](http://www.jb51.net/article/60733.htm)
 - [为D3.js条形图构建AngularJS指令](http://www.phloxblog.in/d3-js-angular-directive/)
 - [Angular-localStorage](https://github.com/agrublev/angularLocalStorage)
-- [Videogular](一个基于AngularJS的HTML5视频播放器:http://twofuckingdevelopers.com/2013/08/videogular-an-html5-video-player-for-angularjs/)
+- [Videogular一个基于AngularJS的HTML5视频播放器](http://twofuckingdevelopers.com/2013/08/videogular-an-html5-video-player-for-angularjs/)
 - [Angular-cache](http://jmdobry.github.io/angular-cache/)
 - [Bootstrap的Angular指令](http://angular-ui.github.io/bootstrap/)
 - [Angular的图表指令和服务](https://github.com/wesleyhales/angular-charts)
