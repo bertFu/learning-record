@@ -33,10 +33,12 @@
 #### 性能优化
 - [为什么我们的angular应用总是很慢](http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/)
 - [angular性能优化心得]( https://github.com/dolymood/AngularLearning)
+- [AngularJS按需动态加载template和controller?,通过requireJs来加载](https://www.zhihu.com/question/30624377)
 
 #### 集锦
 - [2013年AngularJS学习资源精选](http://www.iteye.com/news/28651-AngularJS-Google-resource)
 - [Angular.js 的一些学习资源](https://github.com/dolymood/AngularLearning)
+- [angular按需加载-angularAMD](https://github.com/marcoslin/angularAMD)
 
 #### AngularUI
 - [AngularUI（包含该一些ui组件，有兴趣的可以查看）](https://github.com/angular-ui)
