@@ -41,6 +41,7 @@
 - [Load a module on demand with AngularJS](http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs)
 - [Loading AngularJS Components With RequireJS After Application Bootstrap](http://www.bennadel.com/blog/2554-loading-angularjs-components-with-requirejs-after-application-bootstrap.htm)
 - [Lazy Loading In AngularJS](http://ify.io/lazy-loading-in-angularjs/)
+- [基于ui-router的无侵入式angular按需加载方案](http://www.tuicool.com/articles/FNNrme)
 
 #### 集锦
 - [2013年AngularJS学习资源精选](http://www.iteye.com/news/28651-AngularJS-Google-resource)
