@@ -23,3 +23,7 @@
 
 ### 五、优化
 - [Ionic遇上crosswalk，安卓webview的终极优化](http://tieba.baidu.com/p/3530185795)
+
+### ionic + AngularJS + PhoneGap
+- [有没人用 ionic + AngularJS + PhoneGap开发过HybridApp - 知乎](https://www.zhihu.com/question/23517605/answer/41517998)
+- [ngCordova 官网](http://ngcordova.com/)
