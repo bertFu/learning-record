@@ -27,3 +27,4 @@
 ### ionic + AngularJS + PhoneGap
 - [有没人用 ionic + AngularJS + PhoneGap开发过HybridApp - 知乎](https://www.zhihu.com/question/23517605/answer/41517998)
 - [ngCordova 官网](http://ngcordova.com/)
+- [cordova 官网](https://cordova.apache.org/)
