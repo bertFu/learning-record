@@ -77,6 +77,9 @@
 
 #### Scope
 - [Scoop的用法](http://www.html-js.com/article/1863)
+
+#### 作用域与事件
+- [作用域与事件](https://github.com/xufei/blog/issues/18)
  
 #### 后台管理
 - [基于angularJs的后台管理](https://github.com/beeman/loopback-angular-admin)
