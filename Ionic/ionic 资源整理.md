@@ -21,10 +21,18 @@
 ### 四、扩展
 - 1、[Chapter 42. Initialization Scripts](https://docs.gradle.org/current/userguide/init_scripts.html)
 
-### 五、优化
+### 五、WebView优化
 - [Ionic遇上crosswalk，安卓webview的终极优化](http://tieba.baidu.com/p/3530185795)
+- [放弃WebView，使用Crosswalk做富文本编辑器 - 推酷](http://www.tuicool.com/articles/RfyEjae)
+- [一篇文章读懂开源web引擎Crosswalk](http://www.csdn.net/article/2014-09-15/2821693-Crosswalk)
+- [crosswalk 官网](https://crosswalk-project.org/)
+- [chromeview 致命弱点不能滚动](https://github.com/pwnall/chromeview)
 
-### ionic + AngularJS + PhoneGap
+### 六、ionic + AngularJS + PhoneGap
 - [有没人用 ionic + AngularJS + PhoneGap开发过HybridApp - 知乎](https://www.zhihu.com/question/23517605/answer/41517998)
 - [ngCordova 官网](http://ngcordova.com/)
 - [cordova 官网](https://cordova.apache.org/)
+
+
+### 七、常见问题
+- [ionic开发跨平台App常见问题 - 推酷](http://www.tuicool.com/articles/RZBVNn2)
