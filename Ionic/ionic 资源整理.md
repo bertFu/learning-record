@@ -20,6 +20,8 @@
 - [大家都是怎样处理Gradle中的这个文件下载慢的问题的？](http://www.zhihu.com/question/37810416)
 - [Ionic 自动创建应用的图标与启动画面](http://ionichina.com/topic/54e455ab2be672f1111c01e2)
 - [Chapter 42. Initialization Scripts](https://docs.gradle.org/current/userguide/init_scripts.html)
+- [Ionic App源码压缩和混淆](http://ionichina.com/topic/54e9448f32f2c3c01929965b)
+- [Ionic在Android上部署app的步骤](http://www.jizhuomi.com/android/environment/529.html)
 
 ### WebView优化
 - [Ionic遇上crosswalk，安卓webview的终极优化](http://tieba.baidu.com/p/3530185795)
