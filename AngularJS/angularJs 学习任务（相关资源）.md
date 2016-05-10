@@ -34,6 +34,8 @@
 - [为什么我们的angular应用总是很慢](http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/)
 - [angular性能优化心得]( https://github.com/dolymood/AngularLearning)
 - [AngularJS按需动态加载template和controller?,通过requireJs来加载](https://www.zhihu.com/question/30624377)
+- [angularjs 跨域访问问题](http://blog.csdn.net/dounainaicsdn/article/details/51248787)
+- [加载启动](http://www.tuicool.com/articles/BVJnYr)
 
 #### ocLazyLoad 懒加载
 - [ocLazyLoad 官网](https://oclazyload.readme.io/)
