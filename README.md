@@ -2,6 +2,7 @@
 
 #### web资源
 - [IT社区推荐资讯 - IT瘾](http://itindex.net/)
+- [ANT DESIGN](http://ant.design/#/?_k=pznhfe)
 
 #### AngularJS
 - [AngularJS学习任务，与相关资源](https://github.com/bertFu/learning-record/blob/master/AngularJS/angularJs%20%E5%AD%A6%E4%B9%A0%E4%BB%BB%E5%8A%A1%EF%BC%88%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90%EF%BC%89.md)
