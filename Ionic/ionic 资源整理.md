@@ -6,6 +6,9 @@
 - [GItHub]( https://github.com/driftyco)
 - [图标库](http://ionicons.com/)
 
+### 社区
+- [中文社区](http://ionichina.com/)
+
 ### 学习资源
 - [学习网站 - 英文 - 简单入门教学](http://appcamp.io/courses)
 - [使用Ionic构建Hybrid App](http://my.oschina.net/nosand/blog/294011)
