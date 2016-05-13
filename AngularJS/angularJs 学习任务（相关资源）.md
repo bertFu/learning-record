@@ -76,6 +76,7 @@
 - [表排序](http://modernjavascript.blogspot.jp/2013/10/angularjs-table-sort.html)
 - [AngularJS 为 Semantic UI 设计的原生指令集。](https://github.com/angularify/angular-semantic-ui)
 - [angular-admin](https://github.com/beeman/loopback-angular-admin)
+- [统计图-指令](https://github.com/wesleyhales/angular-charts)
 
 #### Scope
 - [Scoop的用法](http://www.html-js.com/article/1863)
