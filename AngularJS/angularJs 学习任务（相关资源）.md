@@ -77,6 +77,7 @@
 - [AngularJS 为 Semantic UI 设计的原生指令集。](https://github.com/angularify/angular-semantic-ui)
 - [angular-admin](https://github.com/beeman/loopback-angular-admin)
 - [统计图-指令](https://github.com/wesleyhales/angular-charts)
+- [统计图 angular-chart](http://jtblin.github.io/angular-chart.js/)
 
 #### Scope
 - [Scoop的用法](http://www.html-js.com/article/1863)
