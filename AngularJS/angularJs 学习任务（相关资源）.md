@@ -29,6 +29,7 @@
 - [angular最佳实践](http://www.lovelucy.info/angularjs-best-practices.html)
 - [AngularJS资源合集](http://www.iteye.com/news/28651-AngularJS-Google-resource)
 - [AngularJS1、AngularJS2代码编写规范](https://github.com/johnpapa/angular-styleguide)
+- [20 个有用的 Angular.js 工具](http://wiki.jikexueyuan.com/project/wiki-journal-201507-1/useful-tool.html)
 
 #### 性能优化
 - [为什么我们的angular应用总是很慢](http://www.zhex.me/blog/2013/11/22/why-out-angular-app-is-slow/)
