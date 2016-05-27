@@ -63,7 +63,7 @@
 #### Promise
 - [AngularJS 中的 Promise 和 设计模式（使用到promise时查看）](http://my.oschina.net/ilivebox/blog/293771?fromerr=hrrFEzLK)
 
-#### Directive
+#### Directive - UI
 - [AngularJS常用插件与指令收集（扩展了解）](http://chensd.com/2015-06/AngularJS-popular-Plugins-and-Directive.html)
 - [angularJS之使用指令封装DOM操作（使用到自定义指定时查看）](http://www.w2bc.com/Article/28945)
 - [进度条](https://htmlpreview.github.io/?https://github.com/angular-ui/ui-slider/master/demo/index.html)
@@ -79,6 +79,8 @@
 - [angular-admin](https://github.com/beeman/loopback-angular-admin)
 - [统计图-指令](https://github.com/wesleyhales/angular-charts)
 - [统计图 angular-chart](http://jtblin.github.io/angular-chart.js/)
+- [ng-notify 通知-底部](https://github.com/matowens/ng-notify)
+- [AngularJS-Toaster 通知-侧栏](https://github.com/jirikavi/AngularJS-Toaster)
 
 #### Scope
 - [Scoop的用法](http://www.html-js.com/article/1863)

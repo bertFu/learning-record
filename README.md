@@ -20,3 +20,6 @@
 
 #### RequireJS
 - [requireJs 资源整理](https://github.com/bertFu/learning-record/blob/master/RequireJS/requireJs%20%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86.md)
+
+#### 测试
+- [阿里云测](http://mqc.aliyun.com/?from=fir_banner)
