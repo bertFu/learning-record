@@ -123,3 +123,5 @@ export default rootReducer
 
 reduce()、filter()、map()、some()、every()、...展开属性   这些概念属于es5、es6中的语法，跟react+redux并没有什么联系，我们直接在https://developer.mozilla.org/en-US/ 这里可以搜索到相关api文档。  
 [点击学习](http://www.cnblogs.com/lewis617/p/5149006.html)
+
+
