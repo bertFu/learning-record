@@ -143,3 +143,8 @@ VOLUME ["/data", "var/www"]
 ONBUILD ADD ./app/src
 ONBUILD RUN echo "on build excuted" >> onbuild.txt
 ```
+
+构建命令
+```
+docker build -t xxx/test:v1 .
+```
