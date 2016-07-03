@@ -94,4 +94,5 @@ docker inspect deamon_logs
 查看容器信息
 
 
-
+### 相关资源
+[Docker命令行探秘](http://www.infoq.com/cn/articles/docker-command-line-quest/)

@@ -148,3 +148,15 @@ ONBUILD RUN echo "on build excuted" >> onbuild.txt
 ```
 docker build -t xxx/test:v1 .
 ```
+
+  
+这个非常坑，我按照书上的配置执行了 `DockerFile` 只看见 `image` 在不断的变大中，直到90G,实在受不了了，就强制结束这次build。  
+
+之后就发现少了70G的内存，吓死宝宝了....  
+
+建议在第一次做测试的时候只编写简单的 `DockerFile`
+```
+# Version: 1.0.1
+FROM ubuntu:14.04
+```
+亲测成功。^_^!!
