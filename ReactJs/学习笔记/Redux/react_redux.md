@@ -1,6 +1,7 @@
-## react + redux 学习笔记
+# react + redux 学习笔记
 
-### PropTypes
+## PropTypes
+
 ```
 import React, { PropTypes } from 'react'
 
@@ -15,12 +16,14 @@ Counter.propTypes = {
   counter: PropTypes.number.isRequired
 };
 ```
+
 上述代码，我们干了几件事：
 
 - 从props中导入变量和方法
 - 渲染组件
 
-### actions、reducer、state
+## actions、reducer、state
+
 ```
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
@@ -41,15 +44,18 @@ function mapDispatchToProps(dispatch) {
 //通过react-redux提供的connect方法将我们需要的state中的数据和actions中的方法绑定到props上
 export default connect(mapStateToProps, mapDispatchToProps)(Counter)
 ```
+
 state就是数据，组件就是数据的呈现形式，action是动作，action是通过reducer来更新state的。
+
 - 把state的counter值绑定到props上
 - 把四个action创建函数绑定到props上
 
-`counter` 内部就可以用到 `actions` 提供的方法，当counter需要做动作的时候，调用 `actions` 的方法，通过 `reducer` 处理后更新 `state`。  
-`counter` 通过  `mapStateToProps()` 方法将 `state` 的值绑定到自身的 `props` 对象上，这样就实现了组件与组件之间的数据共享。  
+`counter` 内部就可以用到 `actions` 提供的方法，当counter需要做动作的时候，调用 `actions` 的方法，通过 `reducer` 处理后更新 `state`。<br>
+`counter` 通过 `mapStateToProps()` 方法将 `state` 的值绑定到自身的 `props` 对象上，这样就实现了组件与组件之间的数据共享。<br>
 connect这个方法的用法，可以直接看a[pi文档](http://cn.redux.js.org/docs/react-redux/api.html)。
 
-### Action
+## Action
+
 ```
 export const INCREMENT_COUNTER = 'INCREMENT_COUNTER'
 export const DECREMENT_COUNTER = 'DECREMENT_COUNTER'
@@ -108,7 +114,8 @@ export default function counter(state = 0, action) {
 }
 ```
 
-### Store
+## Store
+
 ```
 import { combineReducers } from 'redux'
 import counter from './counter'
@@ -121,7 +128,5 @@ const rootReducer = combineReducers({
 export default rootReducer
 ```
 
-reduce()、filter()、map()、some()、every()、...展开属性   这些概念属于es5、es6中的语法，跟react+redux并没有什么联系，我们直接在https://developer.mozilla.org/en-US/ 这里可以搜索到相关api文档。  
+reduce()、filter()、map()、some()、every()、...展开属性 这些概念属于es5、es6中的语法，跟react+redux并没有什么联系，我们直接在<https://developer.mozilla.org/en-US/> 这里可以搜索到相关api文档。<br>
 [点击学习](http://www.cnblogs.com/lewis617/p/5149006.html)
-
-
