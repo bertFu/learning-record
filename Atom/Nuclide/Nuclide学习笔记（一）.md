@@ -42,7 +42,7 @@ npm install // 安装模块依赖
 
 快捷打开远程服务器命令
 
-![markdowm-preview](./images/quick-start-getting-started-remote-connection-dialog.png)
+![markdowm-preview](../images/quick-start-getting-started-remote-connection-dialog.png)
 
 ```
 ctrl-shift-cmd-C
@@ -56,4 +56,12 @@ ctrl-shift-cmd-C
 
 Facebook是把Diff做到各种地方玩，这个功能找过插件，没找到合适的，个人挺喜欢这个功能的，用着看看好用不。
 
-![markdowm-preview](./images/quick-start-getting-started-diff-view.png)
+![markdowm-preview](../images/quick-start-getting-started-diff-view.png)
+
+```
+Installing nuclide dependencies
+
+Installing haskell-grammar, language-ini, language-swift
+```
+
+官方文档：（<https://nuclide.io/docs/quick-start/getting-started/）>
