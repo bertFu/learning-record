@@ -38,10 +38,23 @@
 └── tests                    # 单元测试
 ```
 
-### components
+### Components
 
 > 可复用组件
 
 1. 组件所以在的目录名字必须大写
 2. index.js 只对需要的组件做引入
 3. 组件所在的文件名必须大写
+
+### Containers
+
+> 可复用容器
+
+### 问题
+
+一、Action、Reducer、State
+
+- 如何处理公共异步请求
+- 如何解决按需更新state？
+
+  - redux-actions
