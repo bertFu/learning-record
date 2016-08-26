@@ -8,6 +8,20 @@
 - [Webpack傻瓜指南（二）开发和部署技巧](https://zhuanlan.zhihu.com/p/20397902)
 - [如何使用webpack](http://qiutc.me/post/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8webpack%E2%80%94webpack-howto.html)
 - [深入浅出React（二）：React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack/)
+- [webpack前端模块加载工具](http://www.tuicool.com/articles/2qiE7jN)
+
+  - 为什么用webpack：简述模块加载的起源
+  - 功能特性：简述webpack的特性
+  - webpack 安装、配置、启动
+  - 编写入口文件
+  - 多模块依赖
+  - loader加载器：安装、配置
+
+    - bebel-loader
+    - sass-loader
+    - 关于对图片的打包
+    - 打包成多个资源文件（文件按需加载）
+    - 独立出css样式
 
 ## 部署、进阶
 

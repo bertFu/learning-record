@@ -25,6 +25,9 @@
 ## 优化
 
 - [Redux：一种页面状态管理的优雅方案](http://www.tuicool.com/articles/aMRbUve)
+- [redux actions reducers 按需加载](http://www.tuicool.com/articles/yEj2Qz2)
+
+  - 简述如何使用 `redux-async-actions-reducers`, 做项目优化时可以参考
 
 ## 资源
 
@@ -35,3 +38,10 @@
 ## 部署
 
 - [部署React+Redux Web App](http://www.tuicool.com/articles/BjIFFb2)
+
+## 开发
+
+- [Redux-devTools简单的使用](http://www.jianshu.com/p/a2d4c1856560)
+
+  - 简述 `Redux-devTools` 的使用，从安装，到创建组件，添加依赖，按照步骤下来，就可以使用 `Redux-devTools` 组件了。
+  - 在和 `react-router` 做整合的时候出现一点小问题，将 `devTools` 放在根目录会报错， 与 `Router` 放在一起就解决了。

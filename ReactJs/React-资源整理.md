@@ -100,3 +100,26 @@
 ## demo
 
 - [公司内部订餐系统，采用ReactRouter重构](https://github.com/yuyang041060120/csfz-food-react)
+
+## 性能优化
+
+- [React 移动 web 极致优化](http://blog.csdn.net/h416756139/article/details/51728485)
+- [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7)
+
+## react+redux+webpack
+
+> 这几篇教学解决了一直困扰的烦恼，收获良多
+
+- [react、redux什么的都用起来 【1】我不是双向绑定](http://www.cnblogs.com/tolg/p/5282235.html)
+- [react、redux什么的都用起来 【2】异步action和redux中间件](http://www.cnblogs.com/tolg/p/5289697.html)
+- [react、redux什么的都用起来 【3】穿越spa的路由](http://www.cnblogs.com/tolg/p/5318900.html)
+- [react、redux什么的都用起来 【4】生产部署和优化](http://www.cnblogs.com/tolg/p/5359957.html)
+
+  - 打包部署文件
+  - 服务器设置
+  - 分离样式文件
+  - 加载图片
+  - 多个入口
+  - 分离第三方库
+  - 按需加载
+  - 添加hash后缀
