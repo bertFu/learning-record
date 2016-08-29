@@ -17,6 +17,9 @@
 - [學習 React.js：瞭解 Flux，React.js 的架構（三）](http://my.oschina.net/ilivebox/blog/402813)
 - [React.js的一些入门基础知识](http://www.open-open.com/lib/view/open1439177506645.html)
 - [如何入门 React？你应该跟着这八步走](https://zhuanlan.zhihu.com/p/21569134?f3fb8ead20=95314cb3333201823a5bf845544ba4ab)
+- [基于react的H5开发入门基础简介](https://yq.aliyun.com/articles/58756?spm=5176.100240.searchblog.49.0u4OkM)
+
+  - 使用图解，将react基础全面概述，不错的入门文章
 
 ## 组件
 
@@ -87,6 +90,7 @@
 - [react-ie8](https://github.com/xcatliu/react-ie8)
 - [redux+react+webpack+热加载+兼容IE8](http://blog.csdn.net/jiestyle21/article/details/50836988)
 - [网站使用React，还兼容了IE8](http://react-china.org/t/react-ie8/5611)
+- [ES6 + Webpack + React + Babel 如何在低版本浏览器上愉快的玩耍(上)](https://yq.aliyun.com/articles/59107?spm=5176.100240.searchblog.33.0u4OkM)
 
 ## 代码规范
 
