@@ -149,7 +149,7 @@ $('div').click(function(){$('html,body').animate({scrollTop:$('.a').offset().top
 
 ## 拓展
 
-- [JS滚轮事件(mousewheel/DOMMouseScroll)了解](http://www.zhangxinxu.com/wordpress/2013/04/js-mousewheel-dommousescroll-event/) -
+- [JS滚轮事件(mousewheel/DOMMouseScroll)了解](http://www.zhangxinxu.com/wordpress/2013/04/js-mousewheel-dommousescroll-event/)
 
   - 一张较全的IE7, IE10, Chrome, 以及FireFox，鼠标向下滚动图表
   - 讲解了 `DOMMouseScroll`、 `onmousewheel`的差异
