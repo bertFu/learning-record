@@ -13,14 +13,14 @@ git tag -a 0.1.3 -m "Release version 0.1.3"
 
 完整的例子:
 
-```shell
+```
  git add . git commit -m "fixed some bugs"
  git tag -a 0.1.3 -m "Release version 0.1.3″
 ```
 
 分享提交标签到远程服务器上
 
-```shell
+```
  git push origin master git push origin --tags
 ```
 
@@ -28,7 +28,7 @@ git tag -a 0.1.3 -m "Release version 0.1.3"
 
 删除标签的命令：
 
-```shell
+```
 git tag -d 0.1.3
 ```
 
